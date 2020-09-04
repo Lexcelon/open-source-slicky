@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>add_to_slack.png</file>
+    </qresource>
+</RCC>
